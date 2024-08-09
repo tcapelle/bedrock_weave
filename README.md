@@ -1,3 +1,5 @@
+[![Weave](https://raw.githubusercontent.com/wandb/weave/master/docs/static/img/logo.svg)](https://wandb.ai/capecape/aws-genai/weave/)
+
 # Bedrock and W&B Weave
 
 This repository demonstrates how to use Weights and Biases (W&B) Weave with AWS Bedrock model serving. It showcases two different language models and various use cases.
